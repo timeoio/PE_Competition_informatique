@@ -1,0 +1,21 @@
+# Sauvegardes automatiques Jupyter (Crucial pour éviter les conflits Git)
+.ipynb_checkpoints/
+
+# Cache Python et fichiers compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels (ne jamais versionner les dépendances locales)
+venv/
+env/
+.venv/
+.conda/
+
+# Fichiers de configuration locaux VS Code
+.vscode/
+
+# Dossiers de données (Décommentez si vous manipulez de gros datasets)
+# data/
+# *.csv
+# *.json
