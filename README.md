@@ -69,7 +69,7 @@ Ce dispositif d'entraînement classe les problèmes par paradigme algorithmique 
 Chaque exercice intègre :
 * Les contraintes techniques.
 * Le processus de réflexion et de modélisation algorithmique.
-* Une solution détaillée accompagnée de son code.
+* Une solution détaillée.
 
 ## 3. Comment utiliser ce dépôt
 
